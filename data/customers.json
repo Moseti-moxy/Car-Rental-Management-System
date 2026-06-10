@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Jane Doe",
+    "email": "jane@email.com",
+    "phone": "0712345678",
+    "rental_history": [
+      "D9AE86FA"
+    ]
+  }
+]

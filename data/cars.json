@@ -1,0 +1,11 @@
+[
+  {
+    "plate": "KCA123A",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2022,
+    "category": "Sedan",
+    "rate_per_day": 50.0,
+    "status": "rented"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "rental_id": "D9AE86FA",
+    "customer_email": "jane@email.com",
+    "car_plate": "KCA123A",
+    "start_date": "2025-06-01",
+    "expected_return": "",
+    "return_date": null,
+    "total_cost": 0.0,
+    "status": "active"
+  }
+]
