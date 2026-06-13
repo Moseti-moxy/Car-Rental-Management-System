@@ -1,11 +1,182 @@
 [
   {
-    "plate": "KCA123A",
-    "make": "Toyota",
-    "model": "Camry",
+    "plate": "KDV129A",
+    "make": "Mercedes",
+    "model": "E63",
     "year": 2022,
     "category": "Sedan",
     "rate_per_day": 50.0,
+    "status": "rented"
+  },
+  {
+    "plate": "KBB234B",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2021,
+    "category": "Sedan",
+    "rate_per_day": 45.0,
+    "status": "rented"
+  },
+  {
+    "plate": "KCC345C",
+    "make": "Nissan",
+    "model": "X-Trail",
+    "year": 2023,
+    "category": "Sedan",
+    "rate_per_day": 70.0,
+    "status": "rented"
+  },
+  {
+    "plate": "KDD456D",
+    "make": "Subaru",
+    "model": "Forester",
+    "year": 2020,
+    "category": "Sedan",
+    "rate_per_day": 60.0,
+    "status": "rented"
+  },
+  {
+    "plate": "KDA001A",
+    "make": "Toyota",
+    "model": "Land Cruiser",
+    "year": 2023,
+    "category": "SUV",
+    "rate_per_day": 180.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDB002B",
+    "make": "Nissan",
+    "model": "Patrol",
+    "year": 2022,
+    "category": "SUV",
+    "rate_per_day": 160.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDC003C",
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2021,
+    "category": "SUV",
+    "rate_per_day": 90.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDD004D",
+    "make": "Mitsubishi",
+    "model": "Pajero",
+    "year": 2022,
+    "category": "SUV",
+    "rate_per_day": 120.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDE005E",
+    "make": "Toyota",
+    "model": "Hilux",
+    "year": 2023,
+    "category": "Truck",
+    "rate_per_day": 110.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDK006F",
+    "make": "Ford",
+    "model": "Ranger",
+    "year": 2022,
+    "category": "Truck",
+    "rate_per_day": 100.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDG007G",
+    "make": "Mercedes",
+    "model": "C-Class",
+    "year": 2023,
+    "category": "Sedan",
+    "rate_per_day": 200.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDH008H",
+    "make": "BMW",
+    "model": "3 Series",
+    "year": 2022,
+    "category": "Sedan",
+    "rate_per_day": 190.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDC009I",
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2021,
+    "category": "Sedan",
+    "rate_per_day": 80.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDJ010J",
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2022,
+    "category": "SUV",
+    "rate_per_day": 95.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDK011K",
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2023,
+    "category": "SUV",
+    "rate_per_day": 115.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDL012L",
+    "make": "Audi",
+    "model": "Q5",
+    "year": 2023,
+    "category": "SUV",
+    "rate_per_day": 220.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDM013M",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": 2022,
+    "category": "SUV",
+    "rate_per_day": 130.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDN014N",
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2023,
+    "category": "SUV",
+    "rate_per_day": 88.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDP015O",
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2021,
+    "category": "SUV",
+    "rate_per_day": 85.0,
+    "status": "available"
+  },
+  {
+    "plate": "KDX003C",
+    "make": "Porsche",
+    "model": "Cayenne",
+    "year": 2025,
+    "category": "SUV",
+    "rate_per_day": 290.0,
     "status": "rented"
   }
 ]

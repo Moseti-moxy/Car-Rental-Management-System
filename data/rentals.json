@@ -1,9 +1,49 @@
 [
   {
-    "rental_id": "D9AE86FA",
-    "customer_email": "jane@email.com",
-    "car_plate": "KCA123A",
+    "rental_id": "C96C6DD7",
+    "customer_email": "eugene@email.com",
+    "car_plate": "KDV129A",
     "start_date": "2025-06-01",
+    "expected_return": "",
+    "return_date": null,
+    "total_cost": 0.0,
+    "status": "active"
+  },
+  {
+    "rental_id": "128D11FA",
+    "customer_email": "john@email.com",
+    "car_plate": "KBB234B",
+    "start_date": "2025-06-01",
+    "expected_return": "",
+    "return_date": null,
+    "total_cost": 0.0,
+    "status": "active"
+  },
+  {
+    "rental_id": "8BDD4D5E",
+    "customer_email": "mary@email.com",
+    "car_plate": "KCC345C",
+    "start_date": "2025-06-02",
+    "expected_return": "",
+    "return_date": null,
+    "total_cost": 0.0,
+    "status": "active"
+  },
+  {
+    "rental_id": "43C7FEBA",
+    "customer_email": "peter@email.com",
+    "car_plate": "KDD456D",
+    "start_date": "2025-06-03",
+    "expected_return": "",
+    "return_date": null,
+    "total_cost": 0.0,
+    "status": "active"
+  },
+  {
+    "rental_id": "DC80ACDA",
+    "customer_email": "Kepha@email.com",
+    "car_plate": "KDX003C",
+    "start_date": "2025-06-05",
     "expected_return": "",
     "return_date": null,
     "total_cost": 0.0,

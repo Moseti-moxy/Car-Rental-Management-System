@@ -1,10 +1,54 @@
 [
   {
+    "name": "Kepha Omoko",
+    "email": "Kepha@email.com",
+    "phone": "0725522515",
+    "rental_history": [
+      "DC80ACDA"
+    ]
+  },
+  {
+    "name": "John Smith",
+    "email": "john@email.com",
+    "phone": "0723456789",
+    "rental_history": [
+      "128D11FA"
+    ]
+  },
+  {
+    "name": "Mary Wanjiku",
+    "email": "mary@email.com",
+    "phone": "0734567890",
+    "rental_history": [
+      "8BDD4D5E"
+    ]
+  },
+  {
+    "name": "Peter Kamau",
+    "email": "peter@email.com",
+    "phone": "0745678901",
+    "rental_history": [
+      "43C7FEBA"
+    ]
+  },
+  {
     "name": "Jane Doe",
     "email": "jane@email.com",
     "phone": "0712345678",
+    "rental_history": []
+  },
+  {
+    "name": "kwamzie",
+    "email": "kwamziee@email.com",
+    "phone": "0712756152",
+    "rental_history": []
+  },
+  {
+    "name": "Eugene Moseti",
+    "email": "eugene@email.com",
+    "phone": "07123478",
     "rental_history": [
-      "D9AE86FA"
+      "C96C6DD7"
     ]
   }
 ]
